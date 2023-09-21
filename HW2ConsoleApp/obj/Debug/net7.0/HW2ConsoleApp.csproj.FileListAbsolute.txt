@@ -1,0 +1,14 @@
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\bin\Debug\net7.0\HW2ConsoleApp.exe
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\bin\Debug\net7.0\HW2ConsoleApp.deps.json
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\bin\Debug\net7.0\HW2ConsoleApp.runtimeconfig.json
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\bin\Debug\net7.0\HW2ConsoleApp.dll
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\bin\Debug\net7.0\HW2ConsoleApp.pdb
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.AssemblyInfo.cs
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.dll
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\refint\HW2ConsoleApp.dll
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.pdb
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\HW2ConsoleApp.genruntimeconfig.cache
+C:\Users\ceece\RiderProjects\HW1ConsoleApp\HW2ConsoleApp\obj\Debug\net7.0\ref\HW2ConsoleApp.dll
